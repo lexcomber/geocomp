@@ -25,12 +25,12 @@ book:
     #- references.qmd
   #appendices:
   #  - a1-tasks.qmd
-#bibliography: references.bib
+bibliography: book.bib
 #suppress-bibliography: true
 
 format:
   html:
-    theme: [cosmo, rb.scss]
+    theme: [cosmo]
     # cover-image: cover.png
     code-link: true
     html-math-method: katex

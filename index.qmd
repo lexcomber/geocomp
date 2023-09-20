@@ -2,10 +2,32 @@
 title: "Introduction"
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Introduction
 
-```{r}
-1 + 1
-```
+This is an on-line book written to support the practicals for the GEOG3915 GeoComputation and Spatial Analysis module, delivered by Lex Comber of the School of Geography, from the University of Leeds. It is based on *An Introduction to Spatial Analysis and Mapping* by @brunsdon2018introduction (link  [here](https://us.sagepub.com/en-us/nam/an-introduction-to-r-for-spatial-analysis-and-mapping/book258267)) which provides a foundation for spatial data handling, GIS-related operations and spatial analysis in R. 
+
+There is a chapter for each practical and each has the same structure, containing:  
+
+- an **Overview** of the practical, it aims and objectives. 
+- an **R Markdown file** for you to download and open in RStudio (with a file suffix of `.Rmd`) containing code for you to run.
+- some **Tasks** for you to undertake to test your learning.
+- a **Summary** of the week with relevant references.
+
+Each chapter is self contained and with instructions for loading and data and packages as needed and some have an additional optional exercise that extend the technique being illustrated or describe important related approaches.
+
+The sequence of practicals and topics will build as we porgress through the module
+
+# Overview
+
+The aim of this week's practial is to make sure that you are able to access RStudio, have a secure understanding of some core concepts related to deate structures and data operations, are able to load data, export a graphic and are generally ready to go for the rest fo the module. 
+
+
+## The RStudio interface
+
+It is expected that you will use the RStudio interface to R as it provides  RStudio provides an IDE (an integrated development environment)  via the 4 panes: the Console where code is entered (bottom left), a Source pane with R scripts (top left), the variables in the working Environment (top right), Files, Plots, Help etc (bottom right) - see the RStudio environment below. 
+
+![The RStudio interface](images/rstudio.png)
+
+
+# References{-}

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Geocomputation and Spatial Analysis",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "1 Introduction\nThis is an on-line book written to support the practicals for the GEOG3915 GeoComputation and Spatial Analysis module, delivered by Lex Comber of the School of Geography, from the University of Leeds. It is based on An Introduction to Spatial Analysis and Mapping by Brunsdon and Comber (2018) (link here) which provides a foundation for spatial data handling, GIS-related operations and spatial analysis in R.\nThere is a chapter for each practical and each has the same structure, containing:\nEach chapter is self contained and with instructions for loading and data and packages as needed and some have an additional optional exercise that extend the technique being illustrated or describe important related approaches.\nThe sequence of practicals and topics will build as we porgress through the module\nThe aim of this week’s practial is to make sure that you are able to access RStudio, have a secure understanding of some core concepts related to deate structures and data operations, are able to load data, export a graphic and are generally ready to go for the rest fo the module."
   },
   {
     "objectID": "01-intro.html",
@@ -19,5 +19,12 @@
     "title": "\n3  About\n",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#the-rstudio-interface",
+    "href": "index.html#the-rstudio-interface",
+    "title": "Geocomputation and Spatial Analysis",
+    "section": "2.1 The RStudio interface",
+    "text": "2.1 The RStudio interface\nIt is expected that you will use the RStudio interface to R as it provides RStudio provides an IDE (an integrated development environment) via the 4 panes: the Console where code is entered (bottom left), a Source pane with R scripts (top left), the variables in the working Environment (top right), Files, Plots, Help etc (bottom right) - see the RStudio environment below.\n\n\n\nThe RStudio interface"
   }
 ]
