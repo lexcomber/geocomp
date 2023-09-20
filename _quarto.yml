@@ -1,0 +1,36 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Geocomp"
+  #author: "Roger Beecham"
+  description: ""
+  # cover-image: images/cover.png
+  #site-url: https://vis4sds/vis4sds
+  #repo-url: https://github.com/vis4sds/vis4sds/
+  repo-branch: master
+  repo-actions: [edit]
+  #sharing: [twitter]
+  chapters:
+    - index.qmd
+    - 01-intro.qmd
+    - 02-about.qmd
+    #- 03-visual.qmd
+    #- 04-explore.qmd
+    #- 05-network.qmd
+    #- 06-model.qmd
+    #- 07-uncertainty.qmd
+    #- 08-storytelling.qmd
+    #- references.qmd
+  #appendices:
+  #  - a1-tasks.qmd
+#bibliography: references.bib
+#suppress-bibliography: true
+
+format:
+  html:
+    theme: [cosmo, rb.scss]
+    # cover-image: cover.png
+    code-link: true
+    html-math-method: katex
