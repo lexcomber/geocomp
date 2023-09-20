@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 book:
-  title: "Geocomp"
-  #author: "Roger Beecham"
+  title: "Geocomputation and Spatial Analysis"
+  author: "Lex Comber"
   description: ""
   # cover-image: images/cover.png
   #site-url: https://vis4sds/vis4sds
